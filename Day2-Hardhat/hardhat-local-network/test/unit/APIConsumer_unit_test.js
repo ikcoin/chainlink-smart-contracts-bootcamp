@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const { networkConfig, autoFundCheck, developmentChains } = require('../../helper-hardhat-config')
 const skipIf = require('mocha-skip-if')
 const chai = require('chai')
