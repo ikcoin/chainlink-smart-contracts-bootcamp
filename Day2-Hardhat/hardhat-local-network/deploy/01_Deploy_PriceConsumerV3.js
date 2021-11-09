@@ -1,3 +1,5 @@
+/* eslint-disable dot-notation */
+/* eslint-disable prefer-const */
 /* eslint-disable prettier/prettier */
 let { networkConfig } = require('../helper-hardhat-config')
 
